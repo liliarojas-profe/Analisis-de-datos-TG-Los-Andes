@@ -1,7 +1,7 @@
 # Analisis-de-datos-TG-Los-Andes
 Documentos relativos a la etapa de análisis de datos del artículo de investigación educativa titulado "Factores asociados a los resultados de la evaluación de habilidades en Pensamiento Computacional para estudiantes de grado undécimo - Colegio El Libertador", presentado como trabajo de grado para optar al título de "Maestría en Educación" de la Universidad de Los Andes en el año 2020.
 
-Como anotación adicional, el informe de análisis se hizo utilizando R-Markdown para facilitar la presentación del análisis y su actualización automática, en caso de correcciones o adiciones de nuevos datos. RMarkdown es un tipo de documento de RStudio que permite integrar texto con código de R.
+Como anotación adicional, el informe se hizo utilizando R-Markdown para facilitar la presentación del análisis y su actualización automática, en caso de correcciones o adiciones de nuevos datos. RMarkdown es un tipo de documento de RStudio que permite integrar texto con código de R.
 
 Este repositorio contiene dos carpetas:
 
