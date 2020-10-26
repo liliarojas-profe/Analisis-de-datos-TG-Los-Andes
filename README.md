@@ -23,7 +23,7 @@ The current R is the result of a collaborative effort with
 contributions from all over the world.
 
 
-Authors of R.
+#### Authors of R.
 
 R was initially written by Robert Gentleman and Ross Ihaka—also known as "R & R"
 of the Statistics Department of the University of Auckland.
