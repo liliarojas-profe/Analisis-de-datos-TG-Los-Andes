@@ -47,28 +47,3 @@ Tomas Kalibera's work has been sponsored by Jan Vitek and funded by his European
 Computing support (including hardware, hosting and infrastructure) has been provided/funded by the R Foundation, employers of R-Core members (notably WU Wien, ETH Zurich, U Oxford and U Iowa) and by Northeastern University and the University of Kent.
 
 Distributions of R contain the recommended packages, whose authors/contributors are listed in their DESCRIPTION files.
-
-About
-Documentos relativos a la etapa de análisis de datos de la investigación "Factores asociados a los resultados de la evaluación de habilidades en Pensamiento Computacional para estudiantes de grado undécimo - Colegio El Libertador", presentado como trabajo de grado para optar al título de "Maestría en Educación" de la Universidad de Los Andes.
-
-Topics
-Resources
- Readme
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
