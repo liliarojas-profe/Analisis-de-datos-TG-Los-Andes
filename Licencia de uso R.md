@@ -1,11 +1,13 @@
-#Licencia de uso R
+# Licencia de uso R
+
 R version 4.0.3 (2020-10-10) -- "Bunny-Wunnies Freak Out" Copyright (C) 2020 The R Foundation for Statistical Computing Platform: x86_64-w64-mingw32/x64 (64-bit)
 
 R is a project which is attempting to provide a modern piece of statistical software for the GNU suite of software.
 
 The current R is the result of a collaborative effort with contributions from all over the world.
 
-##Authors of R.
+## Authors of R
+
 R was initially written by Robert Gentleman and Ross Ihaka—also known as "R & R" of the Statistics Department of the University of Auckland.
 
 Since mid-1997 there has been a core group with write access to the R source, currently consisting of
