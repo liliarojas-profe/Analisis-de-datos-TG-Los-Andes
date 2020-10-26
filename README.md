@@ -8,7 +8,7 @@ Este repositorio contiene dos carpetas:
 
 NOTA: Todos los documentos de este repositorio hacen parte de los anexos del artículo "Factores asociados a los resultados de la evaluación de habilidades en Pensamiento Computacional para estudiantes de grado undécimo - Colegio El Libertador", autora: Rojas F., Lilia C.,  por lo cual deben ser citados como tales.
 
-NOTA 2: el informe se elaboró utilizando R-Markdown para facilitar la presentación del análisis y su actualización automática, en caso de correcciones o adiciones de nuevos datos. RMarkdown es un tipo de documento de RStudio que permite integrar texto con código de R.
+NOTA 2: El informe se elaboró utilizando R-Markdown para facilitar la presentación del análisis y su actualización automática, en caso de correcciones o adiciones de nuevos datos. RMarkdown es un tipo de documento de RStudio que permite integrar texto con código de R.
 
 
 ### Licencia de uso R
