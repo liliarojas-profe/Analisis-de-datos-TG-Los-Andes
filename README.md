@@ -16,5 +16,5 @@ R version 4.0.3 (2020-10-10) -- "Bunny-Wunnies Freak Out"
 Copyright (C) 2020 The R Foundation for Statistical Computing
 Platform: x86_64-w64-mingw32/x64 (64-bit)
 
-R es un software libre y viene sin GARANTIA ALGUNA.
+R es un software libre.
 R es un proyecto colaborativo con muchos contribuyentes.
