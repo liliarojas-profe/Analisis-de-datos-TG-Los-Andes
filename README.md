@@ -23,4 +23,4 @@ The current R is the result of a collaborative effort with
 contributions from all over the world.
 
 
-Ver la licencia completa en: Licencia de uso R
+Ver la licencia completa en: https://github.com/liliarojas-profe/Analisis-de-datos-TG-Los-Andes/blob/main/Licencia%20de%20uso%20R.md#licencia-de-uso-r
