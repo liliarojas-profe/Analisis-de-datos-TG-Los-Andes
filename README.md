@@ -17,4 +17,5 @@ Copyright (C) 2020 The R Foundation for Statistical Computing
 Platform: x86_64-w64-mingw32/x64 (64-bit)
 
 R es un software libre.
+
 R es un proyecto colaborativo con muchos contribuyentes.
